@@ -54,9 +54,7 @@
   <h2 id="conclusion">Conclusion</h2>
   <p>The Doctor Prescription Identifier demonstrates the effectiveness of convolutional neural networks in image classification tasks. Future work may include using transfer learning with pre-trained models to enhance accuracy and improve validation performance.</p>
 
-  <h2 id="installation">Installation</h2>
-  <p>To run this project, ensure you have the following installed:</p>
-  <pre><code>pip install tensorflow keras</code></pre>
+
 
   <h2 id="usage">Usage</h2>
   <p>To use the model, load the trained weights and pass an image through the model to get predictions. The model can classify images of handwritten prescriptions into different classes.</p>
